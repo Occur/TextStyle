@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="TextStyleDemonstration/TextStyleDemonstration.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextStyle.Touch/StyleManager.cs">
+    <Files>
+      <File FileName="TextStyleDemonstration/ViewController.cs" Line="1" Column="1" />
+      <File FileName="TextStyleDemonstration/ManualViewController.cs" Line="1" Column="1" />
+      <File FileName="TextStyle.Core/CssTagStyle.cs" Line="1" Column="1" />
+      <File FileName="TextStyle.Touch/StyleManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="Clinton Francis" Email="hello@occur.com.au" Copyright="Clinton Francis" Company="Occur" Trademark="" />
+</Properties>
